@@ -21,7 +21,7 @@ Built with features that support visually impaired users.
 
 📦 Requirements
 Make sure Python 3 is installed, then install the necessary dependencies:
-pip install SpeechRecognition
-pip install pyaudio
-pip install pyttsx3
-pip install numpy
+- pip install SpeechRecognition
+- pip install pyaudio
+- pip install pyttsx3
+- pip install numpy
