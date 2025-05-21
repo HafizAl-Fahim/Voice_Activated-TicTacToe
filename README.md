@@ -25,3 +25,14 @@ Make sure Python 3 is installed, then install the necessary dependencies:
 - pip install pyaudio
 - pip install pyttsx3
 - pip install numpy
+
+💡 If pyaudio installation fails on Windows:
+- pip install pipwin
+- pipwin install pyaudio
+
+🛠️ Tech Stack
+|col1|col2|
+|----|----|
+|row |    | 
+|row2|    |
+|row3|    | 
